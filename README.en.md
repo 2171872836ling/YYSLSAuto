@@ -1,5 +1,6 @@
 [中文](./README.en.md) | **English**
 <h1>YYSLSAuto</h1>
+
 #### (1) Libraries Required for OCR:
 1. Library for OCR acceleration, install according to your graphics card version: `pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu`
 2. `cv2` library: `pip install opencv-python`
